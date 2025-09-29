@@ -29,7 +29,7 @@ This project uses Natural Language Processing (NLP) techniques and a trained mod
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/spam-email-classifier.git
+   git clone https://github.com/Sudhanshu943/spam_email_detector.git
    cd spam-email-classifier
    ```
 
@@ -112,12 +112,6 @@ spam-email-classifier/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repo and create pull requests.
-
----
-
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **Thapa&Company License**.
