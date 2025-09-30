@@ -1,4 +1,4 @@
-# Virtual environment
+ # Virtual environment
 venv/
 .env/
 
@@ -8,7 +8,7 @@ __pycache__/
 *.pyo
 
 # Models (agar private rakhna ho)
-models/*.pkl
+# models/*.pkl
 
 # Google API credentials
 config/credentials.json

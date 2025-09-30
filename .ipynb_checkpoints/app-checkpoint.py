@@ -17,7 +17,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 
 st.set_page_config(
-    page_title="Spam Email Detector",
+    page_title="Spam Email Classifier",
     page_icon="📧",
     layout="wide"
 )
@@ -244,7 +244,7 @@ def initialize_session_state():
 
 def main():
     """Main application"""
-    st.title("📧 Spam Email Detector")
+    st.title("📧 Spam Email Classifier")
     st.markdown("---")
     
     initialize_session_state()
@@ -264,7 +264,6 @@ def main():
     # Footer
     st.sidebar.markdown("---")
     st.sidebar.markdown("**Created by:** Sudhanshu Thapa")
-    st.sidebar.markdown("**Presented by:** Anurag Tripathi")
 
 
 def gmail_analysis_page():
