@@ -114,4 +114,4 @@ spam-email-classifier/
 
 ## 📜 License
 
-This project is licensed under the **Thapa&Company License**.
+This project is licensed under the **Thapa Company Pvt**.
