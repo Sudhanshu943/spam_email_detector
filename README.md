@@ -7,7 +7,6 @@ A professional machine learning-based application for detecting spam emails usin
 ```
 spam_email_detector/
 ├── app.py                          # Main application (original)
-├── app_new.py                      # Refactored main application ✨
 ├── config.py                       # Configuration settings
 ├── logger.py                       # Logging system
 ├── requirements.txt                # Python dependencies
