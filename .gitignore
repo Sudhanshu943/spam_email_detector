@@ -8,7 +8,33 @@ __pycache__/
 *.pyo
 
 # Models (agar private rakhna ho)
-# models/*.pkl
+# models/*.pkl# Add this to your .gitignore to auto-exclude sensitive files:
+
+# Credentials (NEVER push)
+config/credentials.json
+config/token.json
+
+# Models (can be regenerated)
+models/*.pkl
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
 
 # Google API credentials
 config/credentials.json

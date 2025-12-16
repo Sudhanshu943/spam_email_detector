@@ -1,0 +1,99 @@
+2025-12-16 11:14:00 - SpamEmailDetector - INFO - Loading ML models from disk...
+2025-12-16 11:14:00 - SpamEmailDetector - INFO - ML models loaded successfully
+2025-12-16 11:14:00 - SpamEmailDetector - INFO - Application started
+2025-12-16 11:14:00 - SpamEmailDetector - INFO - User navigated to Gmail Analysis page
+2025-12-16 11:14:00 - SpamEmailDetector - INFO - Fetching 10 emails from Gmail...
+2025-12-16 11:14:00 - SpamEmailDetector - INFO - Starting Gmail authentication process...
+2025-12-16 11:14:00 - SpamEmailDetector - INFO - Credentials loaded from token file
+2025-12-16 11:14:00 - SpamEmailDetector - INFO - Gmail service built successfully
+2025-12-16 11:14:01 - SpamEmailDetector - INFO - Email list retrieved successfully
+2025-12-16 11:14:05 - SpamEmailDetector - INFO - Successfully fetched and validated 10 emails
+2025-12-16 11:14:05 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.49%
+2025-12-16 11:14:05 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.49%
+2025-12-16 11:14:05 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 86.19%
+2025-12-16 11:14:05 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 57.58%
+2025-12-16 11:14:05 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 54.23%
+2025-12-16 11:14:05 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 57.58%
+2025-12-16 11:14:05 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 50.71%
+2025-12-16 11:14:05 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.13%
+2025-12-16 11:14:05 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 65.85%
+2025-12-16 11:14:05 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 62.78%
+2025-12-16 11:19:34 - SpamEmailDetector - INFO - Application started
+2025-12-16 11:19:34 - SpamEmailDetector - INFO - User navigated to Gmail Analysis page
+2025-12-16 11:19:34 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.49%
+2025-12-16 11:19:34 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.49%
+2025-12-16 11:19:34 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 86.19%
+2025-12-16 11:19:34 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 57.58%
+2025-12-16 11:19:34 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 54.23%
+2025-12-16 11:19:34 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 57.58%
+2025-12-16 11:19:34 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 50.71%
+2025-12-16 11:19:34 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.13%
+2025-12-16 11:19:34 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 65.85%
+2025-12-16 11:19:34 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 62.78%
+2025-12-16 11:20:58 - SpamEmailDetector - INFO - Loading ML models from disk...
+2025-12-16 11:20:58 - SpamEmailDetector - INFO - ML models loaded successfully
+2025-12-16 11:20:58 - SpamEmailDetector - INFO - Application started
+2025-12-16 11:21:00 - SpamEmailDetector - INFO - User navigated to Gmail Analysis page
+2025-12-16 11:21:00 - SpamEmailDetector - INFO - Fetching 10 emails from Gmail...
+2025-12-16 11:21:00 - SpamEmailDetector - INFO - Starting Gmail authentication process...
+2025-12-16 11:21:00 - SpamEmailDetector - INFO - Credentials loaded from token file
+2025-12-16 11:21:00 - SpamEmailDetector - INFO - Refreshing expired credentials...
+2025-12-16 11:21:00 - SpamEmailDetector - INFO - Credentials refreshed successfully
+2025-12-16 11:21:00 - SpamEmailDetector - INFO - Credentials saved to token file
+2025-12-16 11:21:00 - SpamEmailDetector - INFO - Gmail service built successfully
+2025-12-16 11:21:02 - SpamEmailDetector - INFO - Email list retrieved successfully
+2025-12-16 11:21:06 - SpamEmailDetector - INFO - Successfully fetched and validated 10 emails
+2025-12-16 11:21:07 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.49%
+2025-12-16 11:21:07 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.49%
+2025-12-16 11:21:07 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 86.19%
+2025-12-16 11:21:07 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 57.58%
+2025-12-16 11:21:07 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 54.23%
+2025-12-16 11:21:07 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 57.58%
+2025-12-16 11:21:07 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 50.71%
+2025-12-16 11:21:07 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.13%
+2025-12-16 11:21:07 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 65.85%
+2025-12-16 11:21:07 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 62.78%
+2025-12-16 11:24:18 - SpamEmailDetector - INFO - Loading ML models from disk...
+2025-12-16 11:24:18 - SpamEmailDetector - INFO - ML models loaded successfully
+2025-12-16 11:24:18 - SpamEmailDetector - INFO - Application started
+2025-12-16 11:24:18 - SpamEmailDetector - INFO - User navigated to Gmail Analysis page
+2025-12-16 11:24:18 - SpamEmailDetector - INFO - Fetching 10 emails from Gmail...
+2025-12-16 11:24:18 - SpamEmailDetector - INFO - Starting Gmail authentication process...
+2025-12-16 11:24:18 - SpamEmailDetector - INFO - Credentials loaded from token file
+2025-12-16 11:24:18 - SpamEmailDetector - INFO - Gmail service built successfully
+2025-12-16 11:24:20 - SpamEmailDetector - INFO - Email list retrieved successfully
+2025-12-16 11:24:24 - SpamEmailDetector - INFO - Successfully fetched and validated 10 emails
+2025-12-16 11:24:24 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.49%
+2025-12-16 11:24:24 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.49%
+2025-12-16 11:24:24 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 86.19%
+2025-12-16 11:24:24 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 57.58%
+2025-12-16 11:24:24 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 54.23%
+2025-12-16 11:24:24 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 57.58%
+2025-12-16 11:24:24 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 50.71%
+2025-12-16 11:24:24 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.13%
+2025-12-16 11:24:24 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 65.85%
+2025-12-16 11:24:24 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 62.78%
+2025-12-16 11:24:29 - SpamEmailDetector - INFO - Loading ML models from disk...
+2025-12-16 11:24:29 - SpamEmailDetector - INFO - ML models loaded successfully
+2025-12-16 11:24:29 - SpamEmailDetector - INFO - Application started
+2025-12-16 11:24:29 - SpamEmailDetector - INFO - User navigated to Manual Text Check page
+2025-12-16 11:24:31 - SpamEmailDetector - INFO - Loading ML models from disk...
+2025-12-16 11:24:31 - SpamEmailDetector - INFO - ML models loaded successfully
+2025-12-16 11:24:31 - SpamEmailDetector - INFO - Application started
+2025-12-16 11:24:31 - SpamEmailDetector - INFO - User navigated to Gmail Analysis page
+2025-12-16 11:24:31 - SpamEmailDetector - INFO - Fetching 10 emails from Gmail...
+2025-12-16 11:24:31 - SpamEmailDetector - INFO - Starting Gmail authentication process...
+2025-12-16 11:24:31 - SpamEmailDetector - INFO - Credentials loaded from token file
+2025-12-16 11:24:31 - SpamEmailDetector - INFO - Gmail service built successfully
+2025-12-16 11:24:32 - SpamEmailDetector - INFO - Email list retrieved successfully
+2025-12-16 11:24:37 - SpamEmailDetector - INFO - Successfully fetched and validated 10 emails
+2025-12-16 11:24:37 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.49%
+2025-12-16 11:24:37 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.49%
+2025-12-16 11:24:37 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 86.19%
+2025-12-16 11:24:37 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 57.58%
+2025-12-16 11:24:37 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 54.23%
+2025-12-16 11:24:37 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 57.58%
+2025-12-16 11:24:37 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 50.71%
+2025-12-16 11:24:37 - SpamEmailDetector - INFO - Prediction made: 0, Confidence: 76.13%
+2025-12-16 11:24:37 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 65.85%
+2025-12-16 11:24:37 - SpamEmailDetector - INFO - Prediction made: 1, Confidence: 62.78%
